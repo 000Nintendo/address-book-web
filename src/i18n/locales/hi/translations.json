@@ -1,0 +1,19 @@
+{
+  "Address Book": "पता पुस्तिका",
+  "Fetching data please wait": "डेटा लाया जा रहा है कृपया प्रतीक्षा करें",
+  "Your Address Book Is Empty!": "आपकी पता पुस्तिका खाली है!",
+  "Add new address": "नया पता जोड़ें",
+  "Are you sure to delete": "क्या आप वाकई हटाना चाहते हैं",
+  "Delete": "हटाएं",
+  "Cancel": "रद्द करें",
+  "Change language": "भाषा बदलें",
+  "Full name is required!": "पूरा नाम आवश्यक है!",
+  "Mobile number must be 10 digits long!": "मोबाइल नंबर 10 अंकों का होना चाहिए!",
+  "Mobile number is required!": "मोबाइल नंबर चाहिए!",
+  "Update address": "पता अपडेट करें",
+  "Add address": "पता जोड़ें",
+  "address": "पता",
+  "Fetching address details please wait": "पता विवरण प्राप्त किया जा रहा है कृपया प्रतीक्षा करें",
+  "Full name": "पूरा नाम",
+  "Mobile": "मोबाइल"
+}

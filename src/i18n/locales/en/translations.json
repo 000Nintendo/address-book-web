@@ -1,0 +1,19 @@
+{
+  "Address Book": "Address Book",
+  "Fetching data please wait": "Fetching data please wait",
+  "Your Address Book Is Empty!": "Your Address Book Is Empty!",
+  "Add new address": "Add new address",
+  "Are you sure to delete": "Are you sure to delete",
+  "Delete": "Delete",
+  "Cancel": "Cancel",
+  "Change language": "Change language",
+  "Full name is required!": "Full name is required!",
+  "Mobile number must be 10 digits long!": "Mobile number must be 10 digits long!",
+  "Mobile number is required!": "Mobile number is required!",
+  "Update address": "Update address",
+  "Add address": "Add address",
+  "address": "address",
+  "Fetching address details please wait": "Fetching address details please waits",
+  "Full name": "Full name",
+  "Mobile": "Mobile"
+}
